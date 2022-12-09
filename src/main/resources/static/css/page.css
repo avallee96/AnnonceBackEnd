@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+
+body{
+	margin: auto 15px;
+}
+
+.form-desc{
+	height: 200px;
+}
+
+.gestion{
+	display: flex;
+	flex-direction:column;
+}
+
+.menu{
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+}
+
+h1{
+	text-align: center
+}
+
+.sous-menu{
+	margin: auto;
+}
+
+fieldset{
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	width: 20%;
+}
+
+legend{
+	margin: auto;
+	text-aligne: center;
+}
+
+table{
+	margin: 20px auto;
+	border: 1px solid black;
+	
+}
+
+tr, tbody, th, td{
+	border: 1px solid black;
+}
